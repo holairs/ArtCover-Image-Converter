@@ -1,5 +1,5 @@
 [package]
-name = "artcover_coversor"
+name = "artcover_image_conversor"
 version = "0.1.0"
 edition = "2024"
 
